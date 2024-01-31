@@ -1,16 +1,24 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Hey!+It's+me+Omar!+🖖&fontSize=35&fontColor=D41b22&animation=twinkling&fontAlignY=35"/>
 
-<!--
-**arondightt/arondightt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudante de Sistemas de Informação na PUC Minas.
+  
 
-Here are some ideas to get you started:
+##
+<div align="center"> 
+    <h3 align="left">Git Stats</h3>
+    <img width="49%" height="180px" align="left" display='inline'src="https://github-readme-stats.vercel.app/api?username=arondightt&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+    <img width="49%" height="180px" display='inline' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arondightt&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center"> 
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arondightt&theme=youtube-dark&hide_border=true&background=0d1117)](https://github.com/arondightt)
+
+
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=0E76A8)](https://github.com/arondightt/) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/omarmartinsabreu/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/arondightt)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer"/>
