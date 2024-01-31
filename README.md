@@ -6,8 +6,8 @@
 ##
 <div align="center"> 
     <h3 align="left">Git Stats</h3>
-    <img width="49%" height="180px" align="left" display='inline'src="https://github-readme-stats.vercel.app/api?username=arondightt&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" />
-    <img width="49%" height="180px" display='inline' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arondightt&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+    <img width="45%" height="180px" align="left" display='inline'src="https://github-readme-stats.vercel.app/api?username=arondightt&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" />
+    <img width="45%" height="180px" display='inline' src="https://github-readme-stats.vercel.app/api/top-langs/?username=arondightt&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
