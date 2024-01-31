@@ -20,5 +20,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://instagram.com/arondightt)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer"/>
